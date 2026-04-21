@@ -8,7 +8,5 @@ public class Enemy : MonoBehaviour
         Instantiate(destroyedVFX, this.transform.position, Quaternion.identity);
         Destroy(this.gameObject);
 
-        //todo: only instantiate destroyedVFX once
-        
     }
 }
