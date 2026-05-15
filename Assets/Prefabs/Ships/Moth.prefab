@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 516824024137766443, guid: 7f16731c365e14d4988ff27c3a643c68, type: 3}
+      propertyPath: hitPoints
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 2770554855227095810, guid: 7f16731c365e14d4988ff27c3a643c68, type: 3}
       propertyPath: m_LocalPosition.x
       value: -233.08356
@@ -50,7 +54,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3268465689062579570, guid: 7f16731c365e14d4988ff27c3a643c68, type: 3}
       propertyPath: m_Name
-      value: Enemy5
+      value: Moth
       objectReference: {fileID: 0}
     - target: {fileID: 4327065527515749336, guid: 7f16731c365e14d4988ff27c3a643c68, type: 3}
       propertyPath: m_Size.y
