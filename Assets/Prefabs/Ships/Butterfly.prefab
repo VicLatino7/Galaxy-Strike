@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: hitPoints
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 516824024137766443, guid: 7f16731c365e14d4988ff27c3a643c68, type: 3}
+      propertyPath: scoreValue
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 2770554855227095810, guid: 7f16731c365e14d4988ff27c3a643c68, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5
