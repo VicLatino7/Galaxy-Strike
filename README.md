@@ -11,4 +11,21 @@ Move - WASD
 
 Shoot - LMB
 
-[![Unity Version](https://img.shields.io/badge/Unity-2020.3%20LTS-blue)](#)
+Bird's eye view of the first half of the rail shooter course.
+[![](Assets/Galaxy1.png)](#)
+
+Player ship
+
+[![](Assets/Galaxy2.png)](#)
+
+Player starting position
+[![](Assets/Galaxy3.png)](#)
+
+Second half of the course (desert/barren):
+[![](Assets/Galaxy4.png)](#)
+
+Overhead view of the whole course
+[![](Assets/Galaxy5.png)](#)
+
+Player ship course:
+[![](Assets/Galaxy6.png)](#)
